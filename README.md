@@ -1,4 +1,4 @@
-# al-cs-lab-1
+# AL-CS-LAB-1
 Lab work 1. Data types, classes in C#.
 
 ## Project structure
@@ -29,6 +29,5 @@ Lab work 1. Data types, classes in C#.
 
 > Tests are written using xunit.
 
-## License ![LICENSE](https://img.shields.io/badge/GNU%20GPL-v3-red)
-
-[GNU GENERAL PUBLIC LICENSE Version 3](./LICENSE)
+## License
+[![License](https://img.shields.io/badge/GNU%20GPL-v3-red)](./LICENSE)
