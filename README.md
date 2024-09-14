@@ -30,4 +30,4 @@ Lab work 1. Data types, classes in C#.
 > Tests are written using xunit.
 
 ## License
-[![License](https://img.shields.io/badge/GNU%20GPL-v3-red)](./LICENSE)
+[![License](https://img.shields.io/badge/GNU_GPL-v3-red?logo=gnu)](./LICENSE)
