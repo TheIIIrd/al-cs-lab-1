@@ -1,4 +1,4 @@
-# al-cs-lab-1
+# **al-cs-lab-1**
 Data types, classes in C#
 
 ## Project structure
@@ -23,8 +23,7 @@ Data types, classes in C#
         ├── Program.cs
         └── Rectangle.csproj
 ```
-
-> Tests are written using xunit.
+Tests are written using xunit.
 
 ## License
 [![License](https://img.shields.io/badge/GNU_GPL-v3-red?logo=gnu)](./LICENSE)
